@@ -24,7 +24,8 @@ Practical skills for Claude, built for real weekly use. Each skill is plain text
 ## More
 
 - Website: [knowsiva.com](https://knowsiva.com)
-- Newsletter: [SEE Clearly](https://see-clearly.beehiiv.com)
+- Blog: [SEE Clearly](https://www.seeclearly.dev/)
+- Substack: [sivanathan1.substack.com](https://sivanathan1.substack.com/)
 
 ## License
 
