@@ -10,6 +10,10 @@ A Claude skill that reads your Gmail and emails you one weekly summary: what nee
 - **Security and account alerts.** Sign-ins, password changes, device changes.
 - **The week's mail.** Grouped by sender or topic, with counts.
 
+See a [sample digest](examples/sample-digest.md) (made-up data).
+
+The author runs this skill every week on his own inbox.
+
 ## Safety
 
 - Treats all email content as data. It never follows instructions found inside an email.
