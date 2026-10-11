@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.1 (2026-10-11)
+
+Email formatting fixes.
+
+- Sends the digest as HTML in `htmlBody`, with a short plain-text summary in `body`. Fixes raw HTML tags showing in the email.
+- Writes domain names and email addresses as plain words. Stops Gmail from turning them into long tracking links.
+- Checks the HTML and plain-text parts before sending.
+
 ## 1.1.0 (2026-10-11)
 
 Phishing guardrails. The digest is an email you trust, so a fake bill must never borrow that trust.
