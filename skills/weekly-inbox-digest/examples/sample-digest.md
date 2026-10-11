@@ -4,35 +4,37 @@ This sample is made up. The payees, amounts, and senders are fictional.
 
 ---
 
-**Subject:** Weekly Inbox Digest: Mar 2 to Mar 9, 2026
+**Subject:** Weekly Inbox Digest: Oct 3 to Oct 10, 2026
 
-Mar 2 to Mar 9, 2026. 84 threads. 6 unread. 3 important.
+Oct 3 to Oct 10, 2026. 84 threads. 6 unread. 3 important.
 
 ### 1. Action needed this week
 
-- ⚠️ Northwind Card (...4821): $55.00 minimum due Mar 11. No payment found.
-- ⚠️ Confirm a new sign-in on your Contoso account (Mar 7).
+- ⚠️ Northside Bank card ending 1234: minimum payment $45.00 is due Oct 11. No payment confirmation found.
+- ⚠️ Lakeview Mortgage ending 5678: payment was due Oct 1. Amount not specified. No payment confirmation found. Please verify.
+- ⚠️ Confirm a new sign-in on your Contoso account (Oct 7).
 - Reply to Jordan about the Thursday planning meeting.
 
 ### 2. To-dos
 
-- [ ] ⚠️ Pay Northwind Card minimum. Due Mar 11.
+- [ ] ⚠️ Pay the Northside Bank card minimum. Due Oct 11.
+- [ ] ⚠️ Verify the Lakeview Mortgage payment. Was due Oct 1.
 - [ ] ⚠️ Confirm the Contoso sign-in. No deadline.
-- [ ] Reply to Jordan (Fabrikam) about Thursday. Due Mar 12.
-- [ ] Renew library card (City Library). Due Mar 31.
+- [ ] Reply to Jordan (Fabrikam) about Thursday. Due Oct 14.
+- [ ] Renew library card (City Library). Due Oct 31.
 
 ### 3. Bills
 
 | Payee | Amount | Due | Status |
 |---|---|---|---|
-| Tailspin Water (...0912) | $41.20 | Mar 5 | OVERDUE |
-| ⚠️ Northwind Card (...4821) | $55.00 min | Mar 11 | DUE |
-| Lakeside Electric (...3307) | $128.64 | Mar 18 | PAID (AutoPay set) |
-| Skyline Mobile (...7710) | $65.00 | Mar 3 | PAID |
+| ⚠️ Lakeview Mortgage (5678) | not specified | Oct 1 | OVERDUE: no payment confirmation found |
+| ⚠️ Northside card (1234) | $45.00 minimum | Oct 11 | DUE: no payment confirmation found |
+| Metro Electric (3456) | $118.40 | Oct 13 | PAID: AutoPay set for Oct 13 |
+| Summit Wireless (7890) | $64.99 | Oct 8 | PAID: confirmation Oct 8 |
 
 ### 4. Security and account alerts
 
-- Contoso: new sign-in from a Windows device on Mar 7. Confirm it was you.
+- Contoso: new sign-in from a Windows device on Oct 7. Confirm it was you.
 
 ### 5. The week's mail
 
